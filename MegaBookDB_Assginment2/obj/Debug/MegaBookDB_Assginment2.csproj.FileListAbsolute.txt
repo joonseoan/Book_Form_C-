@@ -9,3 +9,16 @@ C:\Semester Four\CHash_Net\week5\MegaBookDB_Assginment2\MegaBookDB_Assginment2\b
 C:\Semester Four\CHash_Net\week5\MegaBookDB_Assginment2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.exe
 C:\Semester Four\CHash_Net\week5\MegaBookDB_Assginment2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.pdb
 C:\Semester Four\CHash_Net\week5\MegaBookDB_Assginment2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Form2.resources
+C:\Semester Four\CHash_Net\week5\MegaBookDB_Assginment2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Form3.resources
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\bin\Debug\MegaBookDB_Assginment2.exe.config
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\bin\Debug\MegaBookDB_Assginment2.exe
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\bin\Debug\MegaBookDB_Assginment2.pdb
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.csprojAssemblyReference.cache
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Form1.resources
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Form2.resources
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Form3.resources
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.Properties.Resources.resources
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.csproj.GenerateResource.cache
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.csproj.CoreCompileInputs.cache
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.exe
+C:\Semester Four\CHash_Net\week5\Joon_An_991448483_Assignment_2\MegaBookDB_Assginment2\obj\Debug\MegaBookDB_Assginment2.pdb
